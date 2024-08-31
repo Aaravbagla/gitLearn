@@ -19,3 +19,23 @@ git config --global user.email ""
 
 git init this will initailizes the git 
 git status this will check the status for the git project
+
+
+git clone https://link.com this is used to clone the git repo if it is a public repo
+
+
+git clone https://token@link.com for private repo 
+
+
+
+git add
+
+git commit
+
+git push and git pull
+
+git status
+git log 
+git diff
+
+
