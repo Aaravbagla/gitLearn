@@ -85,5 +85,11 @@ git merge origin/main
 Now we will be looking at branchs
 
 
+now there is a concept of head 
+git show head
+
+head will tell where i am currently working on 
+
+git reflog is same as the history on terminal
 
 
