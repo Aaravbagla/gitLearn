@@ -17,3 +17,5 @@ git config --global user.name ""
 git config --global user.email ""
 
 
+git init this will initailizes the git 
+git status this will check the status for the git project
