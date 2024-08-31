@@ -93,3 +93,6 @@ head will tell where i am currently working on
 git reflog is same as the history on terminal
 
 
+git branch - will tell you which you have 
+git branch name
+g
