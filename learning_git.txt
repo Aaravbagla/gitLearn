@@ -1,0 +1,19 @@
+Git or git 
+
+in genral the Git is refered to as the project and git is refered as the tool used for version control system
+
+git --version check the git version 
+
+git branch -a to check the branch
+
+
+how to check and change the current configuration of the git 
+
+git config user.name
+git config user.email
+
+change 
+git config --global user.name ""
+git config --global user.email ""
+
+
