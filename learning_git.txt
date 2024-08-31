@@ -97,3 +97,10 @@ git branch - will tell you which you have
 git branch name
 
 git checkout my_branch / git switch
+
+
+in switch you can only view the code and change that locally but in the checkout you can actually push the code 
+in the git for the first time like checkout give many more feature where as in the switch we can only check the
+and change that where as checkout gives all the feature to the developer 
+
+
