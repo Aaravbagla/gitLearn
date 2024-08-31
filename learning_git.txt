@@ -39,3 +39,21 @@ git log
 git diff
 
 
+git remote -v   v = view 
+
+
+
+when you want to change the remote origin 
+git remote rename <old> <new>
+git remote remove <name>
+
+
+git push -u origin main
+
+git branch -M main
+
+How to add the user in the git when you get the permission error like you are a and you want to push to b
+git remote remove origin
+git remote add origin https://token@link@gmail.com
+
+
