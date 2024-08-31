@@ -71,3 +71,5 @@ git fetch origin <branch>
 
 git checkout origin/main  this is used to checkout the other branch also this is created when you fetch from main
 git switch - again the main brach 
+git merge origin/main
+
