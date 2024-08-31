@@ -118,3 +118,8 @@ git branch -d name this will forcefully delete the branch
 
 
 Merging the code 
+
+git merge branch 
+
+git diff
+git diff one_branch another_branch
