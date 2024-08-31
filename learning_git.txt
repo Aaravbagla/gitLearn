@@ -104,3 +104,8 @@ in the git for the first time like checkout give many more feature where as in t
 and change that where as checkout gives all the feature to the developer 
 
 
+
+
+now how to rename the brach
+switch to that brach 
+git branch -m new_name
