@@ -96,4 +96,4 @@ git reflog is same as the history on terminal
 git branch - will tell you which you have 
 git branch name
 
-git checkout my_branch
+git checkout my_branch / git switch
