@@ -59,5 +59,15 @@ git remote add origin https://token@link@gmail.com
 
 
 
+git fetch and git pull in fetch we actually fetch to the local repo where code reside after the git commit command where
+as in the pull the data is pull to the working directory 
 
 
+
+fetch have multiple commands
+git fetch
+git fetch <remote> <branch>
+git fetch origin <branch>
+
+git checkout origin/main  this is used to checkout the other branch also this is created when you fetch from main
+git switch - again the main brach 
