@@ -109,3 +109,13 @@ and change that where as checkout gives all the feature to the developer
 now how to rename the brach
 switch to that brach 
 git branch -m new_name
+
+
+how to delete a branch 
+git branch -d name this will delete the branch 
+git branch -d name this will forcefully delete the branch 
+
+
+
+
+
