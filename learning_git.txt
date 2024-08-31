@@ -73,3 +73,17 @@ git checkout origin/main  this is used to checkout the other branch also this is
 git switch - again the main brach 
 git merge origin/main
 
+
+
+
+
+
+
+
+
+
+Now we will be looking at branchs
+
+
+
+
