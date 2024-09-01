@@ -185,3 +185,20 @@ git reset hash --hard
 
 git restore will take your files to the previous commit where as reset will change to commit to previous commit
 
+
+
+
+
+
+
+
+
+
+
+Now revert 
+
+reset will delete the commit whereas the revert will create a new branch that matches with the previos commits
+
+git revert hash 
+
+
