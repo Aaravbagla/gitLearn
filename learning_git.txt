@@ -166,4 +166,8 @@ How to restore the file
 
 
 git restore filename
-git restore --source HEAD~N filename         where n is number of head in previos 
+git restore --source HEAD~N filename         where n is number of head in previos 0 means current one and 1 means previos one 
+
+
+
+git restore --staged filename 
