@@ -143,3 +143,5 @@ git log will show you all detail
 now to checkout that
 git checkout hash that the above code gives you 
 
+git switch - to the latest branch /git checkout main
+
