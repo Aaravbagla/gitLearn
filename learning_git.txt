@@ -123,3 +123,23 @@ git merge branch
 
 git diff
 git diff one_branch another_branch
+
+
+
+git checkout and detached head
+
+git restore
+git reset 
+git revert
+
+git checkout works also on file, commits, branches
+
+
+how to check the any commit data 
+
+git log --online  -> this will give you the hash that you will need next
+git log will show you all detail 
+
+now to checkout that
+git checkout hash that the above code gives you 
+
