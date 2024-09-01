@@ -145,3 +145,25 @@ git checkout hash that the above code gives you
 
 git switch - to the latest branch /git checkout main
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to restore the file 
+
+
+git restore filename
+git restore --source HEAD~N filename         where n is number of head in previos 
