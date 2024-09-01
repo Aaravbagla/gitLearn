@@ -171,3 +171,17 @@ git restore --source HEAD~N filename         where n is number of head in previo
 
 
 git restore --staged filename 
+
+
+retore will take you to previos file to see 
+
+
+reset will take you to you previos commit 
+reset ->
+git reset hash
+git reset hash --hard
+
+
+
+git restore will take your files to the previous commit where as reset will change to commit to previous commit
+
